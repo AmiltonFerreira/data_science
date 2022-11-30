@@ -7,7 +7,7 @@
 # Amilton Ferreira
 <sub>*Functiont* at Place</sub>
 
-I am a Fighter Pilot (Brazilian Air Force) in transition to a Data Science career. My strengths are the experience with a high demanding job and the ability to work in team environments.
+I am a Fighter Pilot (Brazilian Air Force) seeking also to build a Data Scientist career. My strengths are the experience with a high demanding job and the ability to work in team environments.
 
 My credentials include a Specialization Course in Operational Research from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
 
@@ -22,7 +22,3 @@ My projects:
 * **New:** https://link.com
 
 ---
-
-
-
-
