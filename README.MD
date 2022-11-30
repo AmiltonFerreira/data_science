@@ -5,7 +5,6 @@
 </p>
 
 # Amilton Ferreira
-<sub>*Functiont* at Place</sub>
 
 I am a Fighter Pilot (Brazilian Air Force) seeking also to build a Data Scientist career. My strengths are the experience with a high demanding job and the ability to work in team environments.
 
