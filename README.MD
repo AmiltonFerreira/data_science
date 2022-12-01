@@ -8,7 +8,7 @@
 
 I am a Fighter Pilot (Brazilian Air Force) building a career as a Data Scientist. My strengths are the experience with a high demanding job and the ability to work in team environments.
 
-My credentials include a Specialization Course in Operational Research from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
+My credentials include a Specialization Course in Operations Research from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
 
 **Background in:** Python, R, Operational Research.
 
