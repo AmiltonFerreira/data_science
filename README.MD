@@ -18,6 +18,6 @@ My credentials include a Specialization Course in Operations Research from the A
 ## Projects:
 My projects:
 
-* **New:** https://link.com
+* **Airbnb Data Analysis - Bangkok, Thailand**: http://bit.ly/3UH6qmT
 
 ---
