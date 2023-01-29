@@ -14,8 +14,8 @@ My credentials include a Specialization Course in Operations Research from the A
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/amiltonferreirajr)
-* [Medium] (https://medium.com/@amiltonferreirajr95)
-* [Tealfeed] (https://tealfeed.com/amiltonferreira)
+* [Medium](https://medium.com/@amiltonferreirajr95)
+* [Tealfeed](https://tealfeed.com/amiltonferreira)
 
 ## Projects:
 My projects:
